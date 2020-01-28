@@ -1,0 +1,6 @@
+# Loose Files
+.python-version
+
+# Specific Folders
+.vscode/
+output/

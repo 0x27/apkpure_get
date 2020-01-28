@@ -1,3 +1,5 @@
 progressbar2
 requests
 bs4
+argparse
+re
